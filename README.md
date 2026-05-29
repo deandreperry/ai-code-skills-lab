@@ -71,7 +71,7 @@ The catalog currently includes **30 production-ready skills** across six categor
 Clone the repository and run the validation scripts:
 
 ```bash
-git clone https://github.com/your-org/ai-code-skills-lab.git
+git clone https://github.com/deandreperry/ai-code-skills-lab.git
 cd ai-code-skills-lab
 npm install
 npm run validate

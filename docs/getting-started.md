@@ -11,7 +11,7 @@ AI Code Skills Lab is a catalog of execution-ready skills for AI coding agents. 
 ## Install And Validate
 
 ```bash
-git clone https://github.com/your-org/ai-code-skills-lab.git
+git clone https://github.com/deandreperry/ai-code-skills-lab.git
 cd ai-code-skills-lab
 npm install
 npm run validate
