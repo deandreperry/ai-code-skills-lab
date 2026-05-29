@@ -1,0 +1,25 @@
+{
+  "name": "ai-code-skills-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Professional AI coding skills for Codex and Claude Code focused on frontend engineering, UX, accessibility, design systems, testing, documentation, and code quality.",
+  "license": "MIT",
+  "scripts": {
+    "validate": "node scripts/validate-skill.js",
+    "index": "node scripts/generate-index.js",
+    "check": "npm run validate && npm run index"
+  },
+  "keywords": [
+    "ai-coding",
+    "codex",
+    "claude-code",
+    "frontend",
+    "accessibility",
+    "design-systems",
+    "testing",
+    "ux"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
