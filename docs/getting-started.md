@@ -21,12 +21,12 @@ npm run validate
 
 Start by selecting the category closest to the work:
 
-- `skills/frontend` for React, architecture, performance, responsive behavior, and onboarding.
-- `skills/accessibility` for WCAG, forms, keyboard, focus, and semantic HTML.
-- `skills/design-systems` for tokens, component APIs, Storybook, and system health.
-- `skills/testing` for Playwright, component tests, regression plans, bug reproduction, and QA.
-- `skills/documentation` for READMEs, changelogs, PR reviews, ADRs, and technical docs.
-- `skills/ux` for UX audits, heuristic evaluations, conversion, information architecture, and user flows.
+- `skills/frontend` for React, architecture, performance, responsive behavior, APIs, forms, state, and resilience.
+- `skills/accessibility` for WCAG, forms, keyboard, focus, semantic HTML, color contrast, and screen reader flows.
+- `skills/design-systems` for tokens, component APIs, Storybook, state matrices, handoff, visual QA, typography, and system health.
+- `skills/testing` for Playwright, component tests, accessibility tests, visual regression plans, bug reproduction, and QA.
+- `skills/documentation` for READMEs, changelogs, PR reviews, ADRs, design system release notes, DX audits, and technical docs.
+- `skills/ux` for UX audits, heuristic evaluations, conversion, information architecture, user flows, onboarding, copy, navigation, settings, and empty states.
 
 ## Run A Skill With An Agent
 

@@ -44,26 +44,30 @@ ai-code-skills-lab/
     `-- generate-index.js
 ```
 
-The catalog currently includes **30 production-ready skills** across six categories. The original minimum target is 25 skills; this repository includes the full category structure with five skills per category.
+The catalog currently includes **50 production-ready skills** across six categories. The original minimum target was 25 skills; this repository now includes a broader designer-and-developer skill set for product-quality AI-assisted work.
 
 ## Skill Categories
 
 | Category | Focus | Included Skills |
 | --- | --- | ---: |
-| Frontend | React, architecture, performance, responsive behavior, onboarding | 5 |
-| Accessibility | WCAG, forms, keyboard, focus, semantic HTML | 5 |
-| Design Systems | Tokens, component APIs, Storybook, governance | 5 |
-| Testing | Playwright, component tests, regression planning, bug reproduction, QA | 5 |
-| Documentation | README, changelog, PR review, ADRs, technical docs | 5 |
-| UX | UX audits, heuristics, conversion, IA, user flows | 5 |
+| Frontend | React, architecture, performance, responsive behavior, forms, APIs, state, resilience | 9 |
+| Accessibility | WCAG, forms, keyboard, focus, semantic HTML, contrast, screen readers | 7 |
+| Design Systems | Tokens, component APIs, Storybook, states, handoff, visual QA, typography, governance | 10 |
+| Testing | Playwright, component tests, accessibility tests, visual regression, regression planning, QA | 7 |
+| Documentation | README, changelog, PR review, ADRs, release notes, DX, technical docs | 7 |
+| UX | UX audits, heuristics, conversion, IA, user flows, onboarding, copy, navigation, settings, states | 10 |
 
 ## Featured Skills
 
 - **React Component Refactor**: Break down complex React components while preserving behavior, accessibility, and type safety.
 - **WCAG Audit**: Convert accessibility issues into prioritized engineering work with clear remediation guidance.
 - **Design System Health Audit**: Evaluate component quality, token maturity, adoption, documentation, and governance.
+- **Design Handoff Review**: Find missing states, tokens, responsive rules, assets, and accessibility notes before implementation starts.
+- **Figma To Code Implementation Plan**: Translate design intent into incremental frontend work with components, states, tests, and risks.
 - **Playwright Test Generator**: Create stable end-to-end tests with accessible locators and meaningful assertions.
+- **Accessibility Test Generator**: Add durable tests for roles, labels, focus, keyboard behavior, and automated scanner coverage.
 - **PR Review Assistant**: Review pull requests with attention to defects, regressions, tests, accessibility, and maintainability.
+- **Empty State Review**: Improve empty, loading, error, first-use, and zero-result states across product workflows.
 - **User Flow Analysis**: Map product flows, edge states, friction, and measurement opportunities.
 
 ## Installation
